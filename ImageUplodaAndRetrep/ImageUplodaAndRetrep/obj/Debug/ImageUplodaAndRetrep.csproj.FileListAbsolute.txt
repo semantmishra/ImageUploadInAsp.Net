@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\ImageUplodaAndRetrep\ImageUplodaAndRetrep\bin\ImageUplodaAndRetrep.dll
+C:\Users\user\Desktop\ImageUplodaAndRetrep\ImageUplodaAndRetrep\bin\ImageUplodaAndRetrep.pdb
+C:\Users\user\Desktop\ImageUplodaAndRetrep\ImageUplodaAndRetrep\obj\Debug\ImageUplodaAndRetrep.dll
+C:\Users\user\Desktop\ImageUplodaAndRetrep\ImageUplodaAndRetrep\obj\Debug\ImageUplodaAndRetrep.pdb
